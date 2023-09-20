@@ -17,7 +17,7 @@ p:first-child{
 	background-color:black;
 	color: white;
 }
-p:nth-child(3){
+p:last-child{
 	color:red;
 }
 li:nth-child(odd){
